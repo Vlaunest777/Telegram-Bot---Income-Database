@@ -11,6 +11,9 @@ previously The World Wealth and Income Database, also known as WID.world, is an 
 open and accessible database "on the historical evolution of the world distribution of income and wealth, both within countries and between countries". 
 World Inequality Report History Thomas Piketty References External links World Inequality Report.
 
+# Author
+Vlaunest Limited
+
 # Our social networks
 Github vlaunest - https://github.com/Vlaunest777
 Каналы в Telegram - https://t.me/thebestvlaunest
