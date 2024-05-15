@@ -1,0 +1,9 @@
+CREATE TABLE records (
+    id        INTEGER  PRIMARY KEY AUTOINCREMENT,
+    users_id  INTEGER  NOT NULL
+                       REFERENCES users (id) ON DELETE CASCADE,
+    operation BOOLEAN  NOT NULL,
+    value     DECIMAL  NOT NULL,
+    date      DATETIME NOT NULL
+                       DEFAULT ( (DATETIME('now') ) ) 
+);
